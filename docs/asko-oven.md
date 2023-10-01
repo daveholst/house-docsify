@@ -20,3 +20,5 @@ Smaller oven that can function as a normal oven, steam oven or hybrid. All contr
   - Two lines top and bottom is normal oven
   - Circle with fan in middle is fan
 
+## Manual
+[Download Manual](_media/manuals/steam-oven-manual.pdf ':ignore')

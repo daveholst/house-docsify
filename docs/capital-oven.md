@@ -15,3 +15,6 @@ Simply Rotate the `Oven` dial to the desired temperate with the door closed and 
 
 ## Range Hood
 This unit exhausts externally. The filter elements can be run through the dishwasher if overly oily.
+
+## Manual
+[Download Manual](_media/manuals/capital-oven-manual.pdf ':ignore')
