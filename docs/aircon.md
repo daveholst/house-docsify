@@ -9,4 +9,4 @@ Control panel for house is located upstairs in the retreat. It is the tablet wit
 A/C can also be controlled on the A/C tab of the kitchen tablet.
 
 ## Manual
-A manual for the air conditioning controller can be [found here](_media/airtouch-4-manual.pdf)
+[Download Manual](_media/manuals/airtouch-4-manual.pdf ':ignore')

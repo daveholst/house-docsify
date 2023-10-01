@@ -23,3 +23,17 @@ Make sure machine is on and preheated - the flashing screen should read `~133` t
 5. Steam milk to desired temperature - until you can no longer holder your hand on the side of the milk container.
 6. Open Left valve **WITHOUT** milk container for 3secs to purge wand.
 7. Wipe steam wand clean with damp cloth, it will be very hot.
+
+## Videos
+### How to use Sette 270wi Grinder
+<div class="container">
+<iframe class="responsive-iframe"  src="https://www.youtube.com/embed/UxBUppzeXtg" title="Baratza Sette 270Wi Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### How to use Profitec Pro 700
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/w7MQTJK7mv8" title="How to Make a Latte on a Profitec Pro 700 Espresso Machine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<br>
+<br>
+<br>
