@@ -1,2 +1,2 @@
 # Bins
-Bins are collected on Fridays with the yellow(recycling) bin every other week.
+General waste (green) bins are collected on Fridays. The recycling (yellow) bin is collected every other week.

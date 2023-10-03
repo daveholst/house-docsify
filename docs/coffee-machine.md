@@ -1,5 +1,5 @@
 #   Coffee Machine
-Make sure machine is on and preheated - the flashing screen should read `~133` then `~94`. Coffee machine will automatically come on at 7am and turn off at 11am. Coffee machine is plumbed to mains water and waste.
+Make sure machine is on and preheated - the flashing screen should read `~133` then `~94`. Coffee machine will automatically come on at 7am and turn off at 3pm. Coffee machine is plumbed to mains water and waste.
 
 ## Making Espresso
 1. If machine is off, turn on via kitchen tablet and preheat machine (~20mins)
@@ -27,7 +27,7 @@ Make sure machine is on and preheated - the flashing screen should read `~133` t
 ## Videos
 ### How to use Sette 270wi Grinder
 <div class="container">
-<iframe class="responsive-iframe"  src="https://www.youtube.com/embed/UxBUppzeXtg" title="Baratza Sette 270Wi Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/UxBUppzeXtg" title="Baratza Sette 270Wi Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ### How to use Profitec Pro 700
