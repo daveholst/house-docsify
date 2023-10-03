@@ -1,5 +1,5 @@
 # Blinds
-All blinds in the house are battery powered, remote control blinds. These can either be controlled vai the white remotes, or the kitchen tablet
+All blinds in the house are battery powered, remote control blinds. These can either be controlled via the white remotes, or the kitchen tablet
 ## White Remotes
 Each room will have a white remote for the blinds.
 - `+` / `-` are for selected the blind. `0` will control all blinds connected to the remote at once.

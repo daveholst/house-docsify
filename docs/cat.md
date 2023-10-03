@@ -14,8 +14,8 @@ These are in a tall container next to her bowl and we give her these after a wal
 Her water bowl is on the tv unit upstairs in the retreat. We change this every second day.
 
 ## Cat Room
-### Litter
-Clean out any poo from the cat litter (might only need doing every second day) with scoop on side of litter tray. This goes into a blue bags (just near litter) and thrown in garbage bin outside.
+### Litter Tray
+Clean out any poo from the cat litter (might only need doing every second day) with scoop on side of litter tray. This goes into a blue bags (just near litter) and thrown in garbage bin outside. The litter tray has a drawer in the bottom with an absorbent mat for urine. This is changed out on Thursdays. Spares are next to the litter tray.
 
 ### Lights and Purifier
 The light stays on it's lowest setting all day and night. The air purifier is on a timer and runs during the day.
