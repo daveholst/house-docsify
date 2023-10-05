@@ -18,6 +18,9 @@ Video showing how to clean the basket.
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/_WUxRhX6IjIsi=b3FPCL30vabY5OnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+## Water Level
+Depending on the weather the pool may need topping up every other week. We usually keep 3 rows of mosaic tiles out of the water. If it drops below 5, top the pull up with water from the garden hose.
+
 ## Pump
 The variable speed pump is set to run at 140L/min 24/7 to help keep the water clean. It is located in the pump room under the pool deck.
 
